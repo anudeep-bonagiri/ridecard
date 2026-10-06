@@ -1,0 +1,16 @@
+[project]
+name = "ridecard"
+version = "0.1.0"
+description = "Plan a Hill Country motorcycle day ride with a local open-weight model, then put the phone away."
+requires-python = ">=3.10"
+license = {text = "MIT"}
+dependencies = []
+
+[project.optional-dependencies]
+gguf = ["llama-cpp-python"]
+
+[project.scripts]
+ridecard = "ridecard.cli:main"
+
+[tool.setuptools]
+packages = ["ridecard"]
