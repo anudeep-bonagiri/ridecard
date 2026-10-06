@@ -1,0 +1,150 @@
+{
+ "Boerne": {
+  "lat": 29.79466,
+  "lon": -98.73197
+ },
+ "Bandera": {
+  "lat": 29.72701,
+  "lon": -99.07246
+ },
+ "Medina": {
+  "lat": 29.79661,
+  "lon": -99.24643
+ },
+ "Vanderpool": {
+  "lat": 29.74403,
+  "lon": -99.55473
+ },
+ "Lost Maples State Natural Area": {
+  "lat": 29.82093,
+  "lon": -99.5875
+ },
+ "Leakey": {
+  "lat": 29.72652,
+  "lon": -99.76245
+ },
+ "Utopia": {
+  "lat": 29.61523,
+  "lon": -99.52699
+ },
+ "Camp Wood": {
+  "lat": 29.66942,
+  "lon": -100.01234
+ },
+ "Concan": {
+  "lat": 29.50044,
+  "lon": -99.72263
+ },
+ "Sisterdale": {
+  "lat": 29.97573,
+  "lon": -98.72157
+ },
+ "Luckenbach": {
+  "lat": 30.17909,
+  "lon": -98.75781
+ },
+ "Fredericksburg": {
+  "lat": 30.2752,
+  "lon": -98.87198
+ },
+ "Old Tunnel State Park": {
+  "lat": 30.10033,
+  "lon": -98.82077
+ },
+ "Comfort": {
+  "lat": 29.96771,
+  "lon": -98.90503
+ },
+ "Wimberley": {
+  "lat": 29.99768,
+  "lon": -98.09879
+ },
+ "Fischer": {
+  "lat": 29.97688,
+  "lon": -98.26585
+ },
+ "Canyon Lake": {
+  "lat": 29.86432,
+  "lon": -98.24378
+ },
+ "Gruene": {
+  "lat": 29.73854,
+  "lon": -98.10427
+ },
+ "New Braunfels": {
+  "lat": 29.70283,
+  "lon": -98.12573
+ },
+ "Stonewall": {
+  "lat": 30.23593,
+  "lon": -98.66462
+ },
+ "Johnson City": {
+  "lat": 30.27738,
+  "lon": -98.40902
+ },
+ "Willow City": {
+  "lat": 30.40075,
+  "lon": -98.70142
+ },
+ "Kerrville": {
+  "lat": 30.04847,
+  "lon": -99.13995
+ },
+ "Ingram": {
+  "lat": 30.07389,
+  "lon": -99.23656
+ },
+ "Hunt": {
+  "lat": 30.06955,
+  "lon": -99.33521
+ },
+ "San Antonio": {
+  "lat": 29.4246,
+  "lon": -98.49514
+ },
+ "Blanco": {
+  "lat": 30.1007,
+  "lon": -98.42206
+ },
+ "Sattler": {
+  "lat": 29.848,
+  "lon": -98.17557
+ },
+ "Tarpley": {
+  "lat": 29.65717,
+  "lon": -99.27643
+ },
+ "Pipe Creek": {
+  "lat": 29.72356,
+  "lon": -98.93586
+ },
+ "Rocksprings": {
+  "lat": 30.01669,
+  "lon": -100.20856
+ },
+ "Garner State Park": {
+  "lat": 29.58826,
+  "lon": -99.73728
+ },
+ "Enchanted Rock State Natural Area": {
+  "lat": 30.50463,
+  "lon": -98.82322
+ },
+ "Hye": {
+  "lat": 30.24255,
+  "lon": -98.57027
+ },
+ "Spring Branch": {
+  "lat": 29.89019,
+  "lon": -98.42643
+ },
+ "Kendalia": {
+  "lat": 29.9691,
+  "lon": -98.52224
+ },
+ "Helotes": {
+  "lat": 29.56357,
+  "lon": -98.68842
+ }
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "lost-maples",
+    "name": "Lost Maples Loop",
+    "via": ["Bandera", "Medina", "Vanderpool", "Lost Maples State Natural Area", "Vanderpool", "Utopia", "Tarpley", "Bandera"],
+    "roads": "TX-16 through Medina, RR 337 west to Vanderpool, FM 187 to Lost Maples, back through Utopia and FM 470 to Bandera",
+    "tags": ["foliage", "twisties", "hike", "long"],
+    "best_months": [10, 11],
+    "season_note": "Bigtooth maples at Lost Maples usually turn in late October through mid November. Check the Texas Parks and Wildlife fall color report before you go.",
+    "stops": [
+      {"place": "Lost Maples State Natural Area", "minutes": 90, "do": "Park the bike and walk the Maple Trail and the lower East Trail along the Sabinal River. Reserve a day pass on peak weekends."},
+      {"place": "Utopia", "minutes": 30, "do": "Stretch, refuel, walk the Sabinal riverbank."}
+    ]
+  },
+  {
+    "id": "old-tunnel-luckenbach",
+    "name": "Sisterdale, Luckenbach and Old Tunnel",
+    "via": ["Sisterdale", "Luckenbach", "Fredericksburg", "Old Tunnel State Park", "Comfort"],
+    "roads": "FM 1376 north through Sisterdale to Luckenbach, US-290 into Fredericksburg, Old San Antonio Road south past Old Tunnel, back through Comfort",
+    "tags": ["history", "food", "wildlife", "easy"],
+    "best_months": [5, 6, 7, 8, 9, 10],
+    "season_note": "Old Tunnel's bat emergence runs roughly May through October, around dusk. Ride home before full dark if you stay for it.",
+    "stops": [
+      {"place": "Luckenbach", "minutes": 30, "do": "Walk the old town, sit under the oaks, no screen needed."},
+      {"place": "Old Tunnel State Park", "minutes": 45, "do": "Walk the short trail to the tunnel overlook and watch the bats leave at dusk."}
+    ]
+  },
+  {
+    "id": "devils-backbone",
+    "name": "Devil's Backbone and River Road",
+    "via": ["Spring Branch", "Canyon Lake", "Fischer", "Wimberley", "Gruene", "Sattler", "Canyon Lake", "Spring Branch"],
+    "roads": "TX-46 east to Canyon Lake, FM 32 (Devil's Backbone) to the Wimberley side, down to Gruene, then River Road along the Guadalupe back to Canyon Lake",
+    "tags": ["twisties", "water", "foliage", "food"],
+    "best_months": [10, 11, 3, 4],
+    "season_note": "Bald cypress along River Road go rust orange in November. Watch for tubers and parked cars on River Road on warm weekends.",
+    "stops": [
+      {"place": "Wimberley", "minutes": 45, "do": "Walk the square and the Cypress Creek path."},
+      {"place": "Gruene", "minutes": 45, "do": "Lunch by the river, walk the historic district."}
+    ]
+  },
+  {
+    "id": "pedernales-290",
+    "name": "Blanco, Johnson City and the 290 Wine Road",
+    "via": ["Kendalia", "Blanco", "Johnson City", "Hye", "Stonewall", "Luckenbach", "Sisterdale"],
+    "roads": "FM 473 to Kendalia, US-281 to Blanco and Johnson City, US-290 west through Hye and Stonewall, FM 1376 home",
+    "tags": ["history", "food", "easy", "sweepers"],
+    "best_months": [3, 4, 5, 9, 10, 11],
+    "season_note": "Fall harvest season along 290. If you stop at a winery, keep it to a taste or none, you are riding.",
+    "stops": [
+      {"place": "Stonewall", "minutes": 45, "do": "Walk the LBJ State Park grounds and the Sauer-Beckmann farmstead."},
+      {"place": "Blanco", "minutes": 30, "do": "Walk the Blanco River dam and the courthouse square."}
+    ]
+  },
+  {
+    "id": "guadalupe-hunt",
+    "name": "Upper Guadalupe to Hunt",
+    "via": ["Comfort", "Kerrville", "Ingram", "Hunt", "Ingram", "Kerrville", "Comfort"],
+    "roads": "I-10 or TX-27 to Kerrville, TX-27 to Ingram, TX-39 along the Guadalupe to Hunt and back",
+    "tags": ["water", "foliage", "easy", "sweepers"],
+    "best_months": [10, 11, 4, 5],
+    "season_note": "TX-39 follows the Guadalupe with low water crossings. Cypress color peaks in November. Do not ride the crossings if water is over the road.",
+    "stops": [
+      {"place": "Hunt", "minutes": 40, "do": "Walk down to the river below the Hunt store and put your feet in."},
+      {"place": "Kerrville", "minutes": 40, "do": "Walk part of the Kerrville River Trail."}
+    ]
+  },
+  {
+    "id": "frio-garner",
+    "name": "Frio River and Garner",
+    "via": ["Bandera", "Tarpley", "Utopia", "Garner State Park", "Leakey", "Vanderpool", "Medina", "Bandera"],
+    "roads": "FM 470 west to Utopia, FM 1050 to Garner, US-83 north to Leakey, RR 337 east through Vanderpool and Medina",
+    "tags": ["twisties", "water", "hike", "long"],
+    "best_months": [4, 5, 9, 10, 11],
+    "season_note": "Full day. RR 337 between Leakey and Medina is tight and has livestock and loose gravel in corners. Fuel up in Leakey.",
+    "stops": [
+      {"place": "Garner State Park", "minutes": 75, "do": "Hike Old Baldy for the view over the Frio, then cool off at the river."},
+      {"place": "Leakey", "minutes": 30, "do": "Fuel, food, stretch."}
+    ]
+  },
+  {
+    "id": "enchanted-rock",
+    "name": "Enchanted Rock and Willow City Loop",
+    "via": ["Comfort", "Fredericksburg", "Enchanted Rock State Natural Area", "Willow City", "Fredericksburg", "Comfort"],
+    "roads": "US-87 to Fredericksburg, RR 965 north to Enchanted Rock, Willow City Loop, TX-16 back",
+    "tags": ["hike", "history", "sweepers", "long"],
+    "best_months": [3, 4, 10, 11, 12],
+    "season_note": "Enchanted Rock day passes sell out on nice weekends, reserve ahead. Willow City Loop is a narrow ranch road with cattle guards and open range, go slow.",
+    "stops": [
+      {"place": "Enchanted Rock State Natural Area", "minutes": 90, "do": "Hike the Summit Trail to the top of the dome. Bring real shoes, not just riding boots."},
+      {"place": "Fredericksburg", "minutes": 45, "do": "Walk Main Street, eat."}
+    ]
+  }
+]
