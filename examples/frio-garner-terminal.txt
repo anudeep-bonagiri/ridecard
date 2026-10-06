@@ -1,0 +1,23 @@
+[ridecard] understood: start=Boerne hours=6.0 day=saturday->2026-10-10 wants=['twisties', 'hike'] avoid=[]
+
+Frio River and Garner  (Boerne, 2026-10-10)
+
+## The plan
+The ride starts in Boerne, covering 161 miles and taking approximately 4.5 hours. This trip offers the curves you requested and includes a hiking opportunity, with today’s clear weather and a high of 84 degrees.
+
+## Road notes
+- Route: FM 470 west to Utopia, FM 1050 to Garner, US-83 north to Leakey, RR 337 east through Vanderpool and Medina.
+- Full day. RR 337 between Leakey and Medina is tight and has livestock and loose gravel in corners. Fuel up in Leakey.
+- Load the GPX before you leave. The route is baked in, so it works with no signal.
+
+## Get off the bike
+- **Garner State Park** (75 min on foot): Hike Old Baldy for the view over the Frio, then cool off at the river.
+- **Leakey** (30 min on foot): Fuel, food, stretch.
+
+## Call
+GO. Clean day for it.
+
+
+Also fits: Lost Maples Loop (6.5 h); Sisterdale, Luckenbach and Old Tunnel (3.8 h)
+
+Wrote: examples/2026-10-10-frio-garner.html, examples/2026-10-10-frio-garner.gpx, examples/2026-10-10-frio-garner.md
